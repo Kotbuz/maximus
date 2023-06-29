@@ -29,6 +29,7 @@ h1
 .par-4
 {
     font-size: 24;
+    text-shadow: green 1px 1px 1px;
     text-align: center;
     font-style: italic
 }
